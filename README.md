@@ -2,4 +2,4 @@
 
 ## NO Animation - Only Logo Icon Show
 
-<img src="/image/topBottom.jpg" alt="LogIn" width="300" height="500">
+<img src="/image/logoTitle.jpg" alt="LogIn" width="300" height="500">
